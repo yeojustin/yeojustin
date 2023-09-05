@@ -13,8 +13,8 @@ I'm a Year 2 Computer Science undergraduate at Murdoch University Australia 😊
 - **I'm confident with**: Java, Python, C++, OOP and agile methodologies
 
 ## Get In Touch 📞
-- 📧 **Email**: [Your Email Address](mailto:jsyeojn@gmail.com)
-- 👤 **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/justinyeo177/))
+- 📧 **Email**: [Contact me here!](mailto:jsyeojn@gmail.com)
+- 👤 **LinkedIn**: [My LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/justinyeo177/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 
