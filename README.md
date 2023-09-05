@@ -1,9 +1,9 @@
 # Hello, I'm Justin Yeo! 👋
 
-I'm a Year 2 Computer Science undergraduate at Murdoch University Australia 😊.
+I'm a Year 2 Computer Science undergraduate at Murdoch University Australia 😊. I am expected to graduate in June 2024. 
 
 ## About Me
-- **Interests**: Data Science, Internet of Things, Machine Learning
+- **Interests**: Data Science, Machine Learning, Deep Learning and IoT
 - **Currently Working On**:
   - Machine Learning Specialization by Deeplearning.Ai  📚
   - Google Advanced Data Analytics Professional Certificate 📚
@@ -12,9 +12,9 @@ I'm a Year 2 Computer Science undergraduate at Murdoch University Australia 😊
 - **In my coursework, I am currently learning**: ML concepts with Python on Jupyter, Linux and OS Scripting 📖
 - **I'm confident with**: Java, Python, C++, OOP and agile methodologies
 
-## Get In Touch 📞
+## Get In Touch 🤙
 - 📧 **Email**: [Contact me here!](mailto:jsyeojn@gmail.com)
-- 👤 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/justinyeo177/)
+- 🌐 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/justinyeo177/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 
