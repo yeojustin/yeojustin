@@ -14,7 +14,7 @@ I'm a Year 2 Computer Science undergraduate at Murdoch University Australia 😊
 
 ## Get In Touch 📞
 - 📧 **Email**: [Contact me here!](mailto:jsyeojn@gmail.com)
-- 👤 **LinkedIn**: [My LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/justinyeo177/)
+- 👤 **LinkedIn**: [My LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/justinyeo177/])
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 
