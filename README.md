@@ -9,8 +9,8 @@ I'm a Year 2 Computer Science undergraduate at Murdoch University Australia 😊
   - Google Advanced Data Analytics Professional Certificate 📚
   - Learning front end stacks to eventually build my own personal website 🌐
 - **I'm open to internships**
-- **In my coursework, I am currently learning**: ML concepts with Python on Jupyter, Linux and OS Scripting 📖
-- **I'm confident with**: Java, Python, C++, OOP and agile methodologies
+- **In my coursework, I am currently learning**: ML concepts with Python on Jupyter, Linux (the OG C lang) and OS Scripting 📖
+- **I'm good with**: Java, Python, C++, OOP and agile methodologies
 
 ## Get In Touch 🤙
 - 📧 **Email**: [Contact me here!](mailto:jsyeojn@gmail.com)
