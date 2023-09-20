@@ -3,7 +3,6 @@
 I'm a Year 2 Computer Science undergraduate at Murdoch University Australia 😊. I am expected to graduate in June 2024. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/yeojustin/github-readme-stats)
 
 ## About Me
 - **Interests**: Data Science, Machine Learning, Deep Learning and IoT
@@ -19,7 +18,8 @@ I'm a Year 2 Computer Science undergraduate at Murdoch University Australia 😊
 - 📧 **Email**: [Contact me here!](mailto:jsyeojn@gmail.com)
 - 🌐 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/justinyeo177/)
 
-
+## Some stats, work in progress!
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yeojustin)](https://github.com/yeojustin/github-readme-stats)
 
 <!---
 yeojustin/yeojustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
