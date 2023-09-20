@@ -2,6 +2,10 @@
 
 I'm a Year 2 Computer Science undergraduate at Murdoch University Australia 😊. I am expected to graduate in June 2024. 
 
+I have a knack for numbers and have even delved into the finance world 📈, but my true passion lies in data, machine learning, and all things tech 💻. When I'm not immersed in code, you'll find me enjoying a game of badminton 🏸, listening to J-pop tunes 🎵, or diving into the world of MapleStory – a game I absolutely loooove 🎮.
+
+I'm an average, down-to-earth guy, but when it comes to tech, I'm a fearless explorer 🚀, always eager to learn and take on new challenges head-on. Whether you're looking for a team member or just want to chat about our shared interests, I'm here to connect anytime. Check out my GitHub to see my coding adventures! 🌐
+
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 
 ## About Me
