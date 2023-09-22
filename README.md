@@ -1,6 +1,6 @@
 # Hello, I'm Justin Yeo! 👋
 
-I'm a Year 2 Computer Science undergraduate at Murdoch University Australia. I am expected to graduate in June 2024. 
+I'm a Year 2 Computer Science undergraduate at Murdoch University. I am expected to graduate in June 2024. 
 
 I have a knack for numbers and have even delved into the finance world, but my true passion lies in data, machine learning, and all things tech. When I'm not immersed in code, you'll find me enjoying a game of badminton, listening to J-pop tunes, or diving into the world of MapleStory, a game I absolutely love. Check out my GitHub to see my coding adventures! 
 
