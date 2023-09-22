@@ -1,4 +1,4 @@
-# Hello, I'm Justin Yeo! 👋
+## Hello, I'm Justin Yeo! 👋
 
 I'm a Year 2 Computer Science undergraduate at Murdoch University. I am expected to graduate in June 2024. 
 
