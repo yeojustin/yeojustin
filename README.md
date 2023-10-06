@@ -20,9 +20,6 @@ I have a knack for numbers and have even delved into the finance world, but my t
 - 📧 **Email**: [Contact me here!](mailto:jsyeojn@gmail.com)
 - 🌐 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/justinyeo177/)
 
-## Some stats, work in progress!
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yeojustin)](https://github.com/yeojustin/github-readme-stats)
-
 <!---
 yeojustin/yeojustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
