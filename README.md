@@ -5,7 +5,7 @@ I have a knack for numbers and have even delved into the finance world, but my t
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 
 ## More stuff about me
-- **Interests**: Data Science, Machine Learning, Deep Learning, IoT and SWE
+- **Interests**: Data Science and Analytics, Machine Learning, Deep Learning, IoT and SWE
 - **Currently Working On**:
   - ML Projects  📚
   - Google Advanced Data Analytics Professional Certificate 📚
