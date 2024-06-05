@@ -9,8 +9,8 @@ I have a knack for numbers and have even delved into the finance world, but my t
 - **Currently Working On**:
   - ML Projects  📚
   - Google Advanced Data Analytics Professional Certificate 📚
-- **I'm open to internships**
-- **In my coursework, I am currently learning**: ML, DL and NLP algo stuff and Unix 📖
+- **I'm open to internships/graduate roles**
+- **In my coursework, I am currently learning**: AI Agents and NLP 📖
 - **I'm good with**: Java, Python, C++, OOP and agile methodologies
 
 ## Get In Touch 🤙
