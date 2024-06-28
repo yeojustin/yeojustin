@@ -5,8 +5,6 @@ I have a knack for numbers and have even delved into the finance world, but my t
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 <br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeojustin&hide_progress=true)
-<br></br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeojustin)](https://github.com/yeojustin/github-readme-stats)
 
 ## More stuff about me
 - **Interests**: Data Science and Analytics, Machine Learning, Deep Learning, IoT and SWE
