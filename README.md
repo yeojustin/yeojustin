@@ -6,7 +6,7 @@ I have a knack for numbers and have even delved into the finance world, but my t
 <br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeojustin&hide_progress=true)
 <br></br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeojustin)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeojustin)](https://github.com/yeojustin/github-readme-stats)
 
 ## More stuff about me
 - **Interests**: Data Science and Analytics, Machine Learning, Deep Learning, IoT and SWE
