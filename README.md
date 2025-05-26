@@ -1,6 +1,6 @@
 ## Hello, I'm Justin Yeo! 👋
 
-\When I'm not immersed in code, you'll find me enjoying a game of badminton, listening to J-pop tunes, or diving into the world of MapleStory..... P.s. Still training to clear Black Mage after 15 years...
+Hihi! How are you?
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 <br></br>
