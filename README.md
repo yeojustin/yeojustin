@@ -4,7 +4,7 @@ Hihi! How are you?
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 <br></br>
-Cooking...
+Cooking stuff...
 
 <!---
 yeojustin/yeojustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
