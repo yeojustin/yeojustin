@@ -1,10 +1,9 @@
-## Hello, I'm Justin Yeo! 👋
+## Hoho merry christmas except its not christmas, its me whipping up some products for the season. Any season. 👋
 
 Hihi! How are you?
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 <br></br>
-Cooking stuff...
 
 <!---
 yeojustin/yeojustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
