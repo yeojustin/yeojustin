@@ -1,6 +1,6 @@
-## Hoho merry christmas except its not christmas, its me whipping up some products for the season. Any season. 👋
+## Yeo Justin 👋
 
-Hihi! How are you?
+Hoho merry christmas except its not christmas, its me whipping up some products for the season. Any season.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 <br></br>
