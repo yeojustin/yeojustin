@@ -1,6 +1,6 @@
 ## Yeo Justin 👋
 
-Hoho merry christmas except its not christmas, its me whipping up some products for the season. Everyday is a gift with AI.
+Whipping up some products for the season. Everyday is a gift with AI.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 <br></br>
