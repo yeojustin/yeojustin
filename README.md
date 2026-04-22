@@ -5,7 +5,7 @@ Whipping and deep cooking...
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 <br></br>
 
-![Github Health](https://camo.githubusercontent.com/)
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeojustin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 yeojustin/yeojustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
