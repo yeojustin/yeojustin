@@ -1,6 +1,6 @@
 ## Yeo Justin 👋
 
-Whipping up some products for the season. Everyday is a gift with AI.
+Whipping and deep cooking...
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 <br></br>
