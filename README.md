@@ -1,6 +1,6 @@
 ## Yeo Justin 👋
 
-Whipping and deep cooking...
+deep cooking some deep dish in the deepest trenches right now... 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 <br></br>
