@@ -1,6 +1,6 @@
 ## Yeo Justin 👋
 
-deep cooking some deep dish in the deepest trenches right now... 
+deep cooking...
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yeojustin&color=brightgreen)
 <br></br>
